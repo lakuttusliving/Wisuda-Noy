@@ -1,5 +1,6 @@
 # bunga_noy
 Bunga Digital buat noy
+https://lakuttusliving.github.io/Wisuda-Noy/
 
 # Kado
 -Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
